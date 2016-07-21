@@ -1,0 +1,292 @@
+{
+  "tasks": [
+    {
+      "name": "180 Squat Jumps",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "180 Squat Jumps",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "180 Squat Jumps",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Pop Ups",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Pop Ups",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Pop Ups",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Jump Lunges",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Jump Lunges",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Jump Lunges",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Beast: Agility Sprint",
+      "duration": 40
+    },
+    {
+      "name": "Rest",
+      "duration": 20
+    },
+    {
+      "name": "Split Press Up",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Split Press Up",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Split Press Up",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Superman Plank",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Superman Plank",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Superman Plank",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Oblique Squat Thrust",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Oblique Squat Thrust",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Oblique Squat Thrust",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Beast: Hurdle Jumps",
+      "duration": 40
+    },
+    {
+      "name": "Rest",
+      "duration": 20
+    },
+    {
+      "name": "Hummer Blows",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Hummer Blows",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Hummer Blows",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "2 Step Dash",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "2 Step Dash",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "2 Step Dash",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Reverse Plank",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Reverse Plank",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Reverse Plank",
+      "duration": 25
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Beast: Burpee Turns",
+      "duration": 40
+    },
+    {
+      "name": "Rest",
+      "duration": 20
+    },
+    {
+      "name": "180 Squat Jumps",
+      "duration": 25
+    },
+    {
+      "name": "Pop Ups",
+      "duration": 25
+    },
+    {
+      "name": "Jump Lunges",
+      "duration": 25
+    },
+    {
+      "name": "Beast: Agility Sprint",
+      "duration": 25
+    },
+    {
+      "name": "Split Press Up",
+      "duration": 25
+    },
+    {
+      "name": "Superman Plank",
+      "duration": 25
+    },
+    {
+      "name": "Oblique Squat Thrust",
+      "duration": 25
+    },
+    {
+      "name": "Beast: Hurdle Jumps",
+      "duration": 25
+    },
+    {
+      "name": "Hummer Blows",
+      "duration": 25
+    },
+    {
+      "name": "2 Step Dash",
+      "duration": 25
+    },
+    {
+      "name": "Reverse Plank",
+      "duration": 25
+    },
+    {
+      "name": "Beast: Burpee Turns",
+      "duration": 25
+    }
+  ]
+}

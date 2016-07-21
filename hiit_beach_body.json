@@ -1,0 +1,200 @@
+{
+  "tasks": [
+    {
+      "name": "Hurdle Jumps",
+      "duration": 30
+    },
+    {
+      "name": "Squat Jumps",
+      "duration": 30
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Hurdle Jumps",
+      "duration": 30
+    },
+    {
+      "name": "Squat Jumps",
+      "duration": 30
+    },
+    {
+      "name": "Squat",
+      "duration": 30
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Hurdle Jumps",
+      "duration": 30
+    },
+    {
+      "name": "Squat Jumps",
+      "duration": 30
+    },
+    {
+      "name": "Squat",
+      "duration": 30
+    },
+    {
+      "name": "Squat and Lunge",
+      "duration": 30
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Hurdle Jumps",
+      "duration": 30
+    },
+    {
+      "name": "Squat Jumps",
+      "duration": 30
+    },
+    {
+      "name": "Squat",
+      "duration": 30
+    },
+    {
+      "name": "Squat and Lunge",
+      "duration": 30
+    },
+    {
+      "name": "Sumo Hold",
+      "duration": 30
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Plank",
+      "duration": 60
+    },
+    {
+      "name": "Side Plank Right",
+      "duration": 60
+    },
+    {
+      "name": "Side Plank Left",
+      "duration": 60
+    },
+    {
+      "name": "Hot Hands",
+      "duration": 60
+    },
+    {
+      "name": "Knee to Elbow",
+      "duration": 60
+    },
+    {
+      "name": "Rest",
+      "duration": 15
+    },
+    {
+      "name": "Sprint",
+      "duration": 30
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Sprint",
+      "duration": 30
+    },
+    {
+      "name": "In and Out Sprint",
+      "duration": 30
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Sprint",
+      "duration": 30
+    },
+    {
+      "name": "In and Out Sprint",
+      "duration": 30
+    },
+    {
+      "name": "Floor to Sky Jump",
+      "duration": 30
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Sprint",
+      "duration": 30
+    },
+    {
+      "name": "In and Out Sprint",
+      "duration": 30
+    },
+    {
+      "name": "Floor to Sky Jump",
+      "duration": 30
+    },
+    {
+      "name": "Agility Sprint",
+      "duration": 30
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Sprint",
+      "duration": 30
+    },
+    {
+      "name": "In and Out Sprint",
+      "duration": 30
+    },
+    {
+      "name": "Floor to Sky Jump",
+      "duration": 30
+    },
+    {
+      "name": "Agility Sprint",
+      "duration": 30
+    },
+    {
+      "name": "Tuck Jump",
+      "duration": 30
+    },
+    {
+      "name": "Rest",
+      "duration": 10
+    },
+    {
+      "name": "Plank",
+      "duration": 60
+    },
+    {
+      "name": "Side Plank Right",
+      "duration": 60
+    },
+    {
+      "name": "Side Plank Left",
+      "duration": 60
+    },
+    {
+      "name": "Hot Hands",
+      "duration": 60
+    },
+    {
+      "name": "Knee to Elbow",
+      "duration": 60
+    }
+  ]
+}
