@@ -104,7 +104,7 @@ class HiitTraining(tk.Frame):
             self.next_task_label.config(text="THIS IS THE LAST TASK!!! KEEP GOING!")
 
     def say_it(self, word):
-        subprocess.run("echo '%s' | festival --tts" % word, shell=True)
+        subprocess.call("echo '%s' | festival --tts" % word, shell=True)
 
     def hide_next_task(self):
         self.next_task_label.config(text="")
